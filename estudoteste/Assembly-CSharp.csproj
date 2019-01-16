@@ -62,6 +62,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Exemplo.cs" />
+    <Compile Include="Assets\Scripts\S07A31.cs" />
+    <Compile Include="Assets\Scripts\S07A32.cs" />
+    <Compile Include="Assets\Scripts\S07A34.cs" />
+    <Compile Include="Assets\Scripts\S07A35.cs" />
+    <Compile Include="Assets\Scripts\S07A36.cs" />
+    <Compile Include="Assets\Scripts\S07A37.cs" />
+    <Compile Include="Assets\Scripts\S07A38.cs" />
+    <Compile Include="Assets\Scripts\S07A39.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>F:/__lucas/github/Estudo/estudoteste/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

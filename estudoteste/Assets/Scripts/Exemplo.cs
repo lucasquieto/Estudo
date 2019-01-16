@@ -2,22 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Exemplo : MonoBehaviour {
+public class S07A31 : MonoBehaviour {
 
-    private string nome = "Lucas";
-    private int idade = 10;
-    private bool obesidade = true;
-    private float altura = 1.80f;
+    public string nome = "Lucas";
+    public int idade = 10;
+    public bool obesidade = true;
+    public float altura = 1.80f;
 
 	// Use this for initialization
 	void Start () {
 
-        Debug.Log(nome);
-		
-	}
+        print(obesidade);
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
+
+    }
 }
