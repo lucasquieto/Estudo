@@ -260,7 +260,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1695749821}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.5, y: -1.45, z: 0}
+  m_LocalPosition: {x: 0.02, y: -1.61, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -274,7 +274,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1695749821}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 981bd4ba410c05d4e89dec45471f0183, type: 3}
+  m_Script: {fileID: 11500000, guid: 4e3ac9dcc95bee4449170abcf2425100, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nome: asdasd
+  fruta:
+  - "Ma\xE7a"
+  - Banana
+  - Laranja
