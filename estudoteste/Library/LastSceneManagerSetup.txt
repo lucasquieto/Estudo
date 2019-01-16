@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/S07 - Basico C#.unity
+- path: "Assets/Scenes/S06 - Ilumina\xE7\xE3o.unity"
   isLoaded: 1
   isActive: 1
